@@ -3,7 +3,7 @@
 ## Project Description
 This project focuses on creating a **smart assistive stick** designed to help visually impaired individuals navigate their surroundings safely and independently. The stick incorporates various sensors to detect obstacles, water, and light conditions, providing real-time feedback to the user to prevent accidents. Additionally, the system includes a glove equipped with a SONAR sensor that aids in navigation. Power banks are used to supply portable power, ensuring the device operates continuously throughout the day.
 
-![Blind's Stick](https://github.com/IkkiOcean/Blinds-Partner/blob/main/DSC_0054.JPG)
+<img src="https://github.com/IkkiOcean/Blinds-Partner/blob/main/DSC_0054.JPG" width="600"/>
 ![Glove](https://github.com/IkkiOcean/Blinds-Partner/blob/main/DSC_0021.JPG)
 
 ## Features
